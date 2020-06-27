@@ -17,3 +17,8 @@ Requests
 ```python
 pip install requests
 ```
+
+Selenium (Desde v1.0.2) # Para deshabilitar logs de selenium leer README de v1.0.2
+```python
+pip install selenium
+```
