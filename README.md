@@ -1,6 +1,6 @@
 # EXE-Proxy-Scraper
 Este programa con GUI buscara proxies por internet. 
-Version actual: v1.1.0
+Version FINAL: v1.2.0
 
 
 # DEPENDENCIAS
