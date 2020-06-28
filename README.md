@@ -1,5 +1,6 @@
 # EXE-Proxy-Scraper
-Este programa con GUI buscara proxies por internet. 
+Este programa con GUI buscara proxies por internet. \n
+Cuenta un con comprobador multi-thread. \N
 Version FINAL: v1.2.0
 
 
